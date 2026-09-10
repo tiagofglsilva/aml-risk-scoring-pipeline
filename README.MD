@@ -1,10 +1,10 @@
 # End-to-End AML Risk Scoring & Compliance Pipeline
 
-An automated data pipeline built in Python and SQLite that simulates Anti-Money Laundering (AML) risk evaluation, automated client risk scoring, and reporting visualization.
+An automated data pipeline built in Python and SQLite that evaluates client profile data, identifies financial risk indicators (such as wealth-to-income mismatches), and generates automated compliance reports.
 
 ## 📌 Features
-- **Database Setup (`01_setup_db.py`)**: Populates an SQLite database (`aml.db`) with client transaction histories and risk indicators.
-- **Risk Analysis Engine (`02_risk_analysis.py`)**: Categorizes high-risk clients based on transaction anomalies, geography, and demographic profiles.
+- **Database Setup (`01_setup_db.py`)**: Populates an SQLite database (`aml.db`) with client demographic profiles and risk indicators.
+- **Risk Analysis Engine (`02_risk_analysis.py`)**: Categorizes high-risk clients based on multi-factor heuristics, geography, and profile anomalies.
 - **Data Visualization (`03_visualizations.py`)**: Generates automated graphical reports for compliance review.
 - **Pipeline Automation (`run_pipeline.py`)**: Executes the full ETL and reporting workflow end-to-end.
 
