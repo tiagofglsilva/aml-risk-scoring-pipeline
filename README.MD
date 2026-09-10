@@ -1,4 +1,4 @@
-# End-to-End AML Risk Scoring & Compliance Pipeline
+# AML Risk Scoring & Compliance Pipeline
 
 An automated data pipeline built in Python and SQLite that evaluates client profile data, identifies financial risk indicators (such as wealth-to-income mismatches), and generates automated compliance reports.
 
