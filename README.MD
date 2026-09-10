@@ -15,7 +15,7 @@ To run the complete pipeline from scratch:
 python run_pipeline.py
 ```
 
-##📬 Connect
+## 📬 Connect
 
     Author: Tiago Frederico
 
