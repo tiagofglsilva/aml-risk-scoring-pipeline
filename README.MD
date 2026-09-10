@@ -13,3 +13,11 @@ To run the complete pipeline from scratch:
 
 ```bash
 python run_pipeline.py
+
+📬 Connect
+
+    Author: Tiago Frederico
+
+    LinkedIn: tiagofrederico2001
+
+    GitHub: @tiagofglsilva
