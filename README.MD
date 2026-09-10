@@ -16,9 +16,6 @@ python run_pipeline.py
 ```
 
 ## 📬 Connect
-
-    Author: Tiago Frederico
-
-    LinkedIn: tiagofrederico2001
-
-    GitHub: @tiagofglsilva
+- **Author:** Tiago Frederico
+- **LinkedIn:** [tiagofrederico2001](https://www.linkedin.com/in/tiagofrederico2001/)
+- **GitHub:** [@tiagofglsilva](https://github.com/tiagofglsilva)
